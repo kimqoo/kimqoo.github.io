@@ -7,14 +7,14 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/kRKsqp8cki/",
     "classDetails": [
         {
-            "name": "아이돌",
+            "name": "아이돌상",
             "title": "아이돌상",
             "explain": " 만인에게 웃음을 주는 얼굴상이자냥! 천상계에서 내려온 신같아서 보기만해도 기분이 좋아지는 얼굴이라능 ",
             "celeb": "아이돌: 장원영, 명재현, 다니엘, 해린",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "배우",
+            "name": "배우상",
             "title": "배우상",
             "explain": " 아이돌과는 또 다른 매력을 가진 얼굴 바로 배우상이자냥... 묘하게 잔잔하면서도 화려한 분위기가 뿜어져 나온다는것이 특징임~ ",
             "celeb": "배우: 박보영, 공유, 수지, 변우석, 김혜윤",
